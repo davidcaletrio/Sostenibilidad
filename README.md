@@ -1,4 +1,4 @@
-## 2. Retos Sociales Identificados
+## 2. Retos Sociales Identificados Sostenibilidad
 1. **Desigualdad social y económica**  
    - Diferencias en acceso a recursos básicos: agua, energía, alimentación.  
    - Vulnerabilidad de comunidades rurales y urbanas marginales.  
