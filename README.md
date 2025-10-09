@@ -49,4 +49,4 @@
 ## Conclusión
 La caracterización de los retos ambientales y sociales evidencia la necesidad de una acción integrada entre sociedad, sectores productivos y gobiernos. Adoptar medidas sostenibles no solo protege al medio ambiente, sino que también garantiza el bienestar de las personas y la competitividad de los sectores productivos en el largo plazo.
 
-Este documento forma parte del proyecto de sostenibilidad (modificado desde rama-local).
+Este documento forma parte del proyecto de sostenibilidad.
